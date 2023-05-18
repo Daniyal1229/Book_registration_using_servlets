@@ -6,7 +6,7 @@ The Book Registration Form is a database-driven online application that stores a
 To execute the Book Registration Form project, you'll need to follow several steps. Here's a step-by-step guide:</b>
 <i>
   <br>
-Set up the development environment:
+<b> Set up the development environment: </b>
 <br>
 Install an Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA.
     <br>
@@ -14,7 +14,7 @@ Install Java Development Kit (JDK) and configure it with your IDE.
     <br>
 Install a web server such as Apache Tomcat and configure it with your IDE.
     <br>
-Set up the database:
+<b> Set up the database: </b>
     <br>
 
 Install MySQL database server.
