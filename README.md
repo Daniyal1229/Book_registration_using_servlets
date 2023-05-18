@@ -26,7 +26,7 @@ Create the necessary tables to store book information.
 Create the project structure:
     <br>
 
-Create a new project in your IDE.
+  <b> Create a new project in your IDE.</b>
     <br>
 Set up the directory structure for the project, including separate folders for HTML, CSS, JavaScript, and Java files.
     <br>
@@ -37,7 +37,7 @@ Create an HTML form to capture book information such as title, author, ISBN, etc
     <br>
 Use CSS and Bootstrap to style the form and make it visually appealing.
     <br>
-Implement the client-side validation:
+  <b> Implement the client-side validation:</b>
     <br>
 
 Use JavaScript to validate the form inputs on the client side.
@@ -54,12 +54,12 @@ Retrieve the form data from the request parameters and perform any necessary ser
 Insert the book information into the database using SQL queries.
 Configure the web server:
     <br>
-
-Deploy your application to the Apache Tomcat server.
+<b>
+  Deploy your application to the Apache Tomcat server.</b>
     <br>
 Configure the server to connect to the MySQL database.
     <br>
-Test the application:
+  <b> Test the application:</b>
     <br>
 
 Start the Tomcat server and access the Book Registration Form application in a web browser.
